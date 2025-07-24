@@ -1,0 +1,12 @@
+<users>
+    <user>
+        <name>John Doe</name>
+        <email>john@example.com</email>
+        <password>password123</password>
+    </user>
+    <user>
+        <name>Jane Smith</name>
+        <email>jane@example.com</email>
+        <password>secret456</password>
+    </user>
+</users>
